@@ -38,7 +38,7 @@ C:\roop-cam\
 
 ```cmd
 # 1. 克隆项目（你已完成）
-git clone https://github.com/s0md3v/roop.git C:\roop-cam
+git clone https://github.com/eninem123/roop-cam-batch C:\roop-cam
 cd C:\roop-cam
 
 # 2. 创建虚拟环境
@@ -142,13 +142,5 @@ rmdir /s C:\roop-cam
 
 ---
 
-**Author**: 你（2025）  
-**GPU**: GTX 1660 Ti + CUDA 11.8  
-**状态**: 批量换脸 100% 成功
-```
+**Author**: https://github.com/eninem123 老谭（2025）  
 
----
-
-**保存为 `C:\roop-cam\README.md`**，打开即看！  
-**你的项目已完整文档化**，可分享、可复现、可扩展！
-```
