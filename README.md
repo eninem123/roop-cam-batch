@@ -3,6 +3,7 @@
 
 > **一句话总结**：  
 > 使用 **Roop-Cam + Python 脚本** 实现 **一键批量换脸**，支持文件夹内多个视频 → 输出到指定文件夹，**GPU 加速（GTX 1660 Ti）**，**永不弹 GUI**。
+![e0477cad64b7ba055e2c2bf58ec2fea0_compress](https://github.com/user-attachments/assets/a59070cf-c5b7-4d2d-9251-9135eb6b3255)
 
 ---
 
